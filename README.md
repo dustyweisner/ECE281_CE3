@@ -19,4 +19,4 @@ __*Moore Machine*__
 
 
 
-In the Moore VHDL shell, the reset is synchronous because the reset because it occurs on the rising edge. Also, in the Moore Testbench, the clock time is set to 10 ns, or a 100 MHz clock frequency. To simulate a 50 MHz clock, we would set the time value to 20 ns.
+In the Moore VHDL shell, the reset is synchronous because the reset because it occurs on the rising edge. Also, in the Moore Testbench, the clock time is set to 10 ns, or a 100 MHz clock frequency. To simulate a 50 MHz clock, we would set the time value to 20 ns. The Mealy Machine will be different from the Moore Machine because the Mealy machine's outputs would be dependent on the current state and the inputs while the Moore Machines's output depends on only its current state. Because of this characteristic difference the coding had to be different.
