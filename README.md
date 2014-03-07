@@ -3,7 +3,7 @@ ECE281_CE3
 
 Moore and Meely Elevator Controller
 
-The testbench results for the Mealy and Moore Machine were...(FILL IN). These were the Mealy and Moore Machines' simulation results:
+The testbench results for the Mealy and Moore Machine were...(FILL IN) (Explain how confirmed functionality of designs). These were the Mealy and Moore Machines' simulation results:
 
 
 __*Moore Machine*__
@@ -16,3 +16,7 @@ __*Moore Machine*__
 
 
 ![](https://github.com/dustyweisner/ECE281_CE3/blob/master/Moore_Testbench_waveform.GIF?raw=true)
+
+
+
+In the Moore VHDL shell, the reset is synchronous because the reset because it occurs on the rising edge. Also, in the Moore Testbench, the clock time is set to 10 ns, or a 100 MHz clock frequency. To simulate a 50 MHz clock, we would set the time value to 20 ns.
