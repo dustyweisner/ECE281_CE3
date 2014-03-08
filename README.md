@@ -9,13 +9,13 @@ The testbench results for the Mealy and Moore Machine were...(FILL IN) (Explain 
 __*Moore Machine*__
 
 
-![](https://github.com/dustyweisner/ECE281_CE3/blob/master/Moore_Testbench_waveform.GIF?raw=true)
+![](https://github.com/dustyweisner/ECE281_CE3/blob/master/Full_Moores_Waveform.GIF?raw=true)
 
 
 __*Moore Machine*__
 
 
-![](https://github.com/dustyweisner/ECE281_CE3/blob/master/Moore_Testbench_waveform.GIF?raw=true)
+![](https://github.com/dustyweisner/ECE281_CE3/blob/master/Full_Moores_Waveform.GIF?raw=true)
 
 
 
