@@ -15,7 +15,7 @@ __*Moore Machine*__
 __*Moore Machine*__
 
 
-![](https://github.com/dustyweisner/ECE281_CE3/blob/master/Full_Moores_Waveform.GIF?raw=true)
+![](https://github.com/dustyweisner/ECE281_CE3/blob/master/Mealy_Testbench_Waveform.GIF?raw=true)
 
 
 
