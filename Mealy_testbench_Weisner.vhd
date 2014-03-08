@@ -2,7 +2,7 @@
 -- Company: USAFA
 -- Engineer: Dusty Weisner
 --
--- Create Date:   14:04:36 03/07/2014
+-- Create Date:   14:04:35 03/07/2014
 -- Design Name:   
 -- Module Name:   C:/Users/C16Dustin.Weisner/Documents/Xilinx/CE3_Weisner.Initialize/Mealy_testbench_Weisner.vhd
 -- Project Name:  CE3_Weisner.Initialize
